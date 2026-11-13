@@ -3,7 +3,6 @@ import React from 'react';
 import { StyleSheet, Text, View, ScrollView } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
 import TarjetaExperiencia from '../components/TarjetaExperiencia';
-
 export default function ExperienciaScreen() {
   return (
     <ScrollView contentContainerStyle={styles.container}>
